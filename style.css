@@ -1,0 +1,23 @@
+body {
+    background-color: #c9b099;
+}
+img {
+    width:100%;
+    height: 40%;
+    max-height: 350px;
+    margin: 0px;
+    padding: 0;
+    border-color:#c9b099 ;
+}
+nav{
+    height: 30%;
+    margin-right:30px;
+}
+nav ul{
+    display: flex;
+    flex-direction: row ;
+
+    gap: 20px;
+    list-style-type:none;
+
+}

@@ -9,15 +9,3 @@ img {
     padding: 0;
     border-color:#c9b099 ;
 }
-nav{
-    height: 30%;
-    margin-right:30px;
-}
-nav ul{
-    display: flex;
-    flex-direction: row ;
-
-    gap: 20px;
-    list-style-type:none;
-
-}
